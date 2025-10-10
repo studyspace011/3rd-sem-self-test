@@ -1,4 +1,4 @@
-# 📝 12th Self Objective Test App
+# 📝 3rd Semester Self MCQ Test App
 
 This is a **Progressive Web Application (PWA)** designed for self-study and objective testing, focusing on offline functionality and a streamlined user experience. It supports dynamic content loading based on a structured file system (ideal for GitHub hosting) and includes advanced analytics for performance tracking.
 
@@ -33,11 +33,11 @@ Ensure your repository adheres to this strict structure, as the JavaScript logic
 ├── manifest.json
 ├── subjects.json
 └── subjects/
-    ├── History/
-    │   ├── Ch-1.csv
-    │   └── Ch-2.csv
-    ├── Urdu/
-    │   └── Ch-1.csv
+    ├── MJC-3 Economics/
+    │   ├── 1.1.csv
+    │   └── 1.2.csv
+    ├── MIC-3 History/
+    │   └── 1.1.csv
     └── [Other Subject Folders]/
         └── [Chapter CSV Files].csv
 ```
@@ -52,16 +52,16 @@ This file acts as the central index for all subjects and chapters. It must accur
 {
   "विषय": [
     {
-      "नाम": "History",
+      "नाम": "MJC-3 Economics",
       "अध्याय": [
-        {"नाम": "Ch-1", "csv_path": "subjects/History/Ch-1.csv"},
-        {"नाम": "Ch-2", "csv_path": "subjects/History/Ch-2.csv"}
+        {"नाम": "1.1 : 1.1 समष्टि अर्थशास्त्र का उद्भव और मूल स्रोत", "csv_path": "subjects/MJC-3 Economics/1.1.csv"},
+        {"नाम": "1.2 : 1.2 समष्टि अर्थशास्त्र के घटक एवं पद्धति", "csv_path": "subjects/MJC-3 Economics/1.2.csv"}
       ]
     },
     {
-      "नाम": "Urdu",
+      "नाम": "MIC-3 History",
       "अध्याय": [
-        {"नाम": "Ch-1", "csv_path": "subjects/Urdu/Ch-1.csv"}
+        {"नाम": "1.1 : 1.1 प्राचीन भारत के स्रोत (550 ई. तक)", "csv_path": "subjects/MIC-3 History/1.1.csv"}
       ]
     }
   ]
