@@ -1,0 +1,122 @@
+{
+  "विषय": [
+    {
+      "नाम": "MJC-3: प्रारंभिक समष्टि अर्थशास्त्र",
+      "विषय_कोड": "MJC-3",
+      "अध्याय": [
+        {"नाम": "1.1 : समष्टि अर्थशास्त्र का उद्भव और मूल स्रोत", "chapter_name": "समष्टि अर्थशास्त्र का उद्भव और मूल स्रोत", "csv_path": "subjects/MJC-3/1.1.csv"},
+        {"नाम": "1.2 : समष्टि अर्थशास्त्र के घटक एवं पद्धति", "chapter_name": "समष्टि अर्थशास्त्र के घटक एवं पद्धति", "csv_path": "subjects/MJC-3/1.2.csv"},
+        {"नाम": "1.3 : राष्ट्रीय आय की अवधारणाएँ", "chapter_name": "राष्ट्रीय आय की अवधारणाएँ", "csv_path": "subjects/MJC-3/1.3.csv"},
+        {"नाम": "1.4 : राष्ट्रीय आय की गणना के दृष्टिकोण (★★★★★)", "chapter_name": "राष्ट्रीय आय की गणना के दृष्टिकोण (★★★★★)", "csv_path": "subjects/MJC-3/1.4.csv"},
+        {"नाम": "1.5 : नाममात्र और वास्तविक GDP", "chapter_name": "नाममात्र और वास्तविक GDP", "csv_path": "subjects/MJC-3/1.5.csv"},
+        {"नाम": "1.6 : ग्रीन GDP और सामाजिक लेखांकन", "chapter_name": "ग्रीन GDP और सामाजिक लेखांकन", "csv_path": "subjects/MJC-3/1.6.csv"},
+        {"नाम": "1.7 : विकासशील अर्थव्यवस्थाओं में कठिनाइयाँ", "chapter_name": "विकासशील अर्थव्यवस्थाओं में कठिनाइयाँ", "csv_path": "subjects/MJC-3/1.7.csv"},
+        {"नाम": "2.1 : मुद्रा के कार्य (★★★★★)", "chapter_name": "मुद्रा के कार्य (★★★★★)", "csv_path": "subjects/MJC-3/2.1.csv"},
+        {"नाम": "2.2 : मुद्रा की मात्रात्मक सिद्धांत", "chapter_name": "मुद्रा की मात्रात्मक सिद्धांत", "csv_path": "subjects/MJC-3/2.2.csv"},
+        {"नाम": "2.3 : मुद्रा की मांग और आपूर्ति", "chapter_name": "मुद्रा की मांग और आपूर्ति", "csv_path": "subjects/MJC-3/2.3.csv"},
+        {"नाम": "2.4 : केंद्रीय बैंकिंग प्रणाली", "chapter_name": "केंद्रीय बैंकिंग प्रणाली", "csv_path": "subjects/MJC-3/2.4.csv"},
+        {"नाम": "2.5 : वाणिज्यिक बैंकिंग प्रणाली", "chapter_name": "वाणिज्यिक बैंकिंग प्रणाली", "csv_path": "subjects/MJC-3/2.5.csv"},
+        {"नाम": "3.1 : शास्त्रीय और कीन्सियन प्रणाली", "chapter_name": "शास्त्रीय और कीन्सियन प्रणाली", "csv_path": "subjects/MJC-3/3.1.csv"},
+        {"नाम": "3.2 : समष्टि आपूर्ति और मांग", "chapter_name": "समष्टि आपूर्ति और मांग", "csv_path": "subjects/MJC-3/3.2.csv"},
+        {"नाम": "3.3 : राजकोषीय और मौद्रिक गुणक", "chapter_name": "राजकोषीय और मौद्रिक गुणक", "csv_path": "subjects/MJC-3/3.3.csv"},
+        {"नाम": "3.4 : विकासशील देशों के संदर्भ में कीन्स सिद्धांत की प्रासंगिकता", "chapter_name": "विकासशील देशों के संदर्भ में कीन्स सिद्धांत की प्रासंगिकता", "csv_path": "subjects/MJC-3/3.4.csv"}
+      ]
+    },
+    {
+      "नाम": "MIC-3: भारत का इतिहास (प्रारंभ से 550 ईस्वी तक)",
+      "विषय_कोड": "MIC-3",
+      "अध्याय": [
+        {"नाम": "1.1 : प्राचीन भारत के स्रोत (550 ई. तक)", "chapter_name": "प्राचीन भारत के स्रोत (550 ई. तक)", "csv_path": "subjects/MIC-3/1.1.csv"},
+        {"नाम": "1.2 : प्रागैतिहासिक भारत का सर्वेक्षण", "chapter_name": "प्रागैतिहासिक भारत का सर्वेक्षण", "csv_path": "subjects/MIC-3/1.2.csv"},
+        {"नाम": "1.3 : सिंधु–सरस्वती सभ्यता और पुनरुत्थान पर विवाद", "chapter_name": "सिंधु–सरस्वती सभ्यता और पुनरुत्थान पर विवाद", "csv_path": "subjects/MIC-3/1.3.csv"},
+        {"नाम": "1.4 : सिंधु–सरस्वती सभ्यता की विशेषताएँ, निरंतरता और पतन", "chapter_name": "सिंधु–सरस्वती सभ्यता की विशेषताएँ, निरंतरता और पतन", "csv_path": "subjects/MIC-3/1.4.csv"},
+        {"नाम": "2.1 : आर्यों की उत्पत्ति और भारत में मूल स्थान", "chapter_name": "आर्यों की उत्पत्ति और भारत में मूल स्थान", "csv_path": "subjects/MIC-3/2.1.csv"},
+        {"नाम": "2.2 : वैदिक युग: समाज और अर्थव्यवस्था", "chapter_name": "वैदिक युग: समाज और अर्थव्यवस्था", "csv_path": "subjects/MIC-3/2.2.csv"},
+        {"नाम": "2.3 : वैदिक धर्म और दर्शन", "chapter_name": "वैदिक धर्म और दर्शन", "csv_path": "subjects/MIC-3/2.3.csv"},
+        {"नाम": "2.4 : महाकाव्य साहित्य: रामायण और महाभारत", "chapter_name": "महाकाव्य साहित्य: रामायण और महाभारत", "csv_path": "subjects/MIC-3/2.4.csv"},
+        {"नाम": "3.1 : महाजनपद युग", "chapter_name": "महाजनपद युग", "csv_path": "subjects/MIC-3/3.1.csv"},
+        {"नाम": "3.2 : प्राचीन भारत में गणराज्य", "chapter_name": "प्राचीन भारत में गणराज्य", "csv_path": "subjects/MIC-3/3.2.csv"},
+        {"नाम": "3.3 : मगध साम्राज्यवाद", "chapter_name": "मगध साम्राज्यवाद", "csv_path": "subjects/MIC-3/3.3.csv"},
+        {"नाम": "3.4 : बौद्ध और जैन धर्म", "chapter_name": "बौद्ध और जैन धर्म", "csv_path": "subjects/MIC-3/3.4.csv"},
+        {"नाम": "4.1 : मौर्य साम्राज्य", "chapter_name": "मौर्य साम्राज्य", "csv_path": "subjects/MIC-3/4.1.csv"},
+        {"नाम": "4.2 : विदेशी और क्षेत्रीय शक्तियाँ", "chapter_name": "विदेशी और क्षेत्रीय शक्तियाँ", "csv_path": "subjects/MIC-3/4.2.csv"},
+        {"नाम": "4.3 : संगम युग", "chapter_name": "संगम युग", "csv_path": "subjects/MIC-3/4.3.csv"},
+        {"नाम": "5.1 : गुप्त सम्राट और समकालीन राज्य", "chapter_name": "गुप्त सम्राट और समकालीन राज्य", "csv_path": "subjects/MIC-3/5.1.csv"},
+        {"नाम": "5.2 : गुप्त प्रशासन", "chapter_name": "गुप्त प्रशासन", "csv_path": "subjects/MIC-3/5.2.csv"},
+        {"नाम": "5.3 : गुप्तकालीन संस्कृति", "chapter_name": "गुप्तकालीन संस्कृति", "csv_path": "subjects/MIC-3/5.3.csv"},
+        {"नाम": "6.1 : चेर वंश", "chapter_name": "चेर वंश", "csv_path": "subjects/MIC-3/6.1.csv"},
+        {"नाम": "6.2 : पांड्य वंश", "chapter_name": "पांड्य वंश", "csv_path": "subjects/MIC-3/6.2.csv"},
+        {"नाम": "6.3 : प्रारंभिक चोल वंश", "chapter_name": "प्रारंभिक चोल वंश", "csv_path": "subjects/MIC-3/6.3.csv"}
+      ]
+    },
+    {
+      "नाम": "MDC-3: आधुनिक हिन्दी कविता (छायावाद तक)",
+      "विषय_कोड": "MDC-3",
+      "अध्याय": [
+        {"नाम": "1.1 : नाटक: भारत दुर्दशा", "chapter_name": "नाटक: भारत दुर्दशा", "csv_path": "subjects/MDC-3/1.1.csv"},
+        {"नाम": "1.2 : निबंध: निज भाषा उन्नति अहै", "chapter_name": "निबंध: निज भाषा उन्नति अहै", "csv_path": "subjects/MDC-3/1.2.csv"},
+        {"नाम": "1.3 : काव्य: प्रारम्भिक दस दोहे", "chapter_name": "काव्य: प्रारम्भिक दस दोहे", "csv_path": "subjects/MDC-3/1.3.csv"},
+        {"नाम": "2.1 : खंड काव्य: यशोधरा", "chapter_name": "खंड काव्य: यशोधरा", "csv_path": "subjects/MDC-3/2.1.csv"},
+        {"नाम": "3.1 : काव्य: आँसू", "chapter_name": "काव्य: आँसू", "csv_path": "subjects/MDC-3/3.1.csv"},
+        {"नाम": "4.1 : भिक्षुक", "chapter_name": "भिक्षुक", "csv_path": "subjects/MDC-3/4.1.csv"},
+        {"नाम": "4.2 : विधवा", "chapter_name": "विधवा", "csv_path": "subjects/MDC-3/4.2.csv"},
+        {"नाम": "5.1 : प्रथम रश्मि", "chapter_name": "प्रथम रश्मि", "csv_path": "subjects/MDC-3/5.1.csv"},
+        {"नाम": "5.2 : मौन निमंत्रण", "chapter_name": "मौन निमंत्रण", "csv_path": "subjects/MDC-3/5.2.csv"},
+        {"नाम": "6.1 : जो तुम आ जाते एक बार", "chapter_name": "जो तुम आ जाते एक बार", "csv_path": "subjects/MDC-3/6.1.csv"},
+        {"नाम": "6.2 : मधुर-मधुर मेरे दीपक जल", "chapter_name": "मधुर-मधुर मेरे दीपक जल", "csv_path": "subjects/MDC-3/6.2.csv"},
+        {"नाम": "7.1 : झाँसी की रानी", "chapter_name": "झाँसी की रानी", "csv_path": "subjects/MDC-3/7.1.csv"},
+        {"नाम": "7.2 : वीरों का कैसा हो बसंत", "chapter_name": "वीरों का कैसा हो बसंत", "csv_path": "subjects/MDC-3/7.2.csv"}
+      ]
+    },
+    {
+      "नाम": "SEC-3: पेशेवर जीवन में संचार (Communication in Professional Life)",
+      "विषय_कोड": "SEC-3",
+      "अध्याय": [
+        {"नाम": "1.1 : परिचय", "chapter_name": "परिचय", "csv_path": "subjects/SEC-3/1.1.csv"},
+        {"नाम": "1.2 : व्यवसायिक संचार क्या है?", "chapter_name": "व्यवसायिक संचार क्या है?", "csv_path": "subjects/SEC-3/1.2.csv"},
+        {"नाम": "1.3 : व्यवसायिक संचार की भाषा", "chapter_name": "व्यवसायिक संचार की भाषा", "csv_path": "subjects/SEC-3/1.3.csv"},
+        {"नाम": "1.4 : सांस्कृतिक घटक (Cultural Components)", "chapter_name": "सांस्कृतिक घटक (Cultural Components)", "csv_path": "subjects/SEC-3/1.4.csv"},
+        {"नाम": "1.5 : गलत संचार और प्रभावी संचार (Miscommunication & Effective Communication)", "chapter_name": "गलत संचार और प्रभावी संचार (Miscommunication & Effective Communication)", "csv_path": "subjects/SEC-3/1.5.csv"},
+        {"नाम": "2.1 : नेटिकट्स (Netiquettes)", "chapter_name": "नेटिकट्स (Netiquettes)", "csv_path": "subjects/SEC-3/2.1.csv"},
+        {"नाम": "2.2 : ऑडियो-बुक सुनना और चर्चा (Audio-book Listening and Discussions)", "chapter_name": "ऑडियो-बुक सुनना और चर्चा (Audio-book Listening and Discussions)", "csv_path": "subjects/SEC-3/2.2.csv"},
+        {"नाम": "2.3 : नोट-निर्माण (Note-taking)", "chapter_name": "नोट-निर्माण (Note-taking)", "csv_path": "subjects/SEC-3/2.3.csv"},
+        {"नाम": "3.1 : प्रस्तुतीकरण कौशल (Presentation Skills)", "chapter_name": "प्रस्तुतीकरण कौशल (Presentation Skills)", "csv_path": "subjects/SEC-3/3.1.csv"},
+        {"नाम": "3.2 : समूह चर्चा (Group Discussion)", "chapter_name": "समूह चर्चा (Group Discussion)", "csv_path": "subjects/SEC-3/3.2.csv"},
+        {"नाम": "3.3 : वार्ताएं (Talks)", "chapter_name": "वार्ताएं (Talks)", "csv_path": "subjects/SEC-3/3.3.csv"},
+        {"नाम": "3.4 : दूरभाषीय कौशल (Telephonic Skills)", "chapter_name": "दूरभाषीय कौशल (Telephonic Skills)", "csv_path": "subjects/SEC-3/3.4.csv"},
+        {"नाम": "3.5 : प्रेरणात्मक कौशल (Persuasion Skills)", "chapter_name": "प्रेरणात्मक कौशल (Persuasion Skills)", "csv_path": "subjects/SEC-3/3.5.csv"},
+        {"नाम": "3.6 : बैठक और वार्ता (Meeting and Negotiation)", "chapter_name": "बैठक और वार्ता (Meeting and Negotiation)", "csv_path": "subjects/SEC-3/3.6.csv"},
+        {"नाम": "3.7 : साक्षात्कार (Interview)", "chapter_name": "साक्षात्कार (Interview)", "csv_path": "subjects/SEC-3/3.7.csv"},
+        {"नाम": "3.8 : जनसंपर्क की क्रियाएँ व कार्य (Functions and Activities of PR)", "chapter_name": "जनसंपर्क की क्रियाएँ व कार्य (Functions and Activities of PR)", "csv_path": "subjects/SEC-3/3.8.csv"},
+        {"नाम": "4.1 : सारांश और पुनर्लेखन (Summarising and Paraphrasing)", "chapter_name": "सारांश और पुनर्लेखन (Summarising and Paraphrasing)", "csv_path": "subjects/SEC-3/4.1.csv"},
+        {"नाम": "4.2 : नौकरी-उन्मुख लेखन (Job-Oriented Writing)", "chapter_name": "नौकरी-उन्मुख लेखन (Job-Oriented Writing)", "csv_path": "subjects/SEC-3/4.2.csv"},
+        {"नाम": "4.3 : प्रलेखन (Documentation)", "chapter_name": "प्रलेखन (Documentation)", "csv_path": "subjects/SEC-3/4.3.csv"},
+        {"नाम": "4.4 : पत्र लेखन (Letter Writing)", "chapter_name": "पत्र लेखन (Letter Writing)", "csv_path": "subjects/SEC-3/4.4.csv"},
+        {"नाम": "4.5 : रिपोर्ट लेखन (Report Writing)", "chapter_name": "रिपोर्ट लेखन (Report Writing)", "csv_path": "subjects/SEC-3/4.5.csv"},
+        {"नाम": "4.6 : डिजिटल संचार (Digital Communication in Social Space)", "chapter_name": "डिजिटल संचार (Digital Communication in Social Space)", "csv_path": "subjects/SEC-3/4.6.csv"},
+        {"नाम": "4.7 : विज्ञापन/निमंत्रण/पोस्टर डिजाइनिंग", "chapter_name": "विज्ञापन/निमंत्रण/पोस्टर डिजाइनिंग", "csv_path": "subjects/SEC-3/4.7.csv"},
+        {"नाम": "4.8 : आंतरिक कार्यालय पत्र व्यवहार", "chapter_name": "आंतरिक कार्यालय पत्र व्यवहार", "csv_path": "subjects/SEC-3/4.8.csv"},
+        {"नाम": "4.9 : ऑनलाइन अकादमिक / कार्य प्रोफ़ाइल निर्माण", "chapter_name": "ऑनलाइन अकादमिक / कार्य प्रोफ़ाइल निर्माण", "csv_path": "subjects/SEC-3/4.9.csv"}
+      ]
+    },
+    {
+      "नाम": "AEC-3: आपदा जोखिम प्रबंधन (Disaster Risk Management)",
+      "विषय_कोड": "AEC-3",
+      "अध्याय": [
+        {"नाम": "1.1 : आपदा का अर्थ और परिभाषा", "chapter_name": "आपदा का अर्थ और परिभाषा", "csv_path": "subjects/AEC-3/1.1.csv"},
+        {"नाम": "1.2 : आपदाओं के प्रकार", "chapter_name": "आपदाओं के प्रकार", "csv_path": "subjects/AEC-3/1.2.csv"},
+        {"नाम": "1.3 : सभी आपदाओं के कारण, प्रभाव और वास्तविक उदाहरण", "chapter_name": "सभी आपदाओं के कारण, प्रभाव और वास्तविक उदाहरण", "csv_path": "subjects/AEC-3/1.3.csv"},
+        {"नाम": "2.1 : जोखिम (Risk):", "chapter_name": "जोखिम (Risk):", "csv_path": "subjects/AEC-3/2.1.csv"},
+        {"नाम": "2.2 : जोखिम न्यूनीकरण (Risk Reduction)", "chapter_name": "जोखिम न्यूनीकरण (Risk Reduction)", "csv_path": "subjects/AEC-3/2.2.csv"},
+        {"नाम": "2.3 : असुरक्षा (Vulnerability):", "chapter_name": "असुरक्षा (Vulnerability):", "csv_path": "subjects/AEC-3/2.3.csv"},
+        {"नाम": "3.1 : आपदा तैयारी:", "chapter_name": "आपदा तैयारी:", "csv_path": "subjects/AEC-3/3.1.csv"},
+        {"नाम": "3.2 : आपदा तैयारी योजना (Disaster Preparedness Plan)", "chapter_name": "आपदा तैयारी योजना (Disaster Preparedness Plan)", "csv_path": "subjects/AEC-3/3.2.csv"},
+        {"नाम": "3.3 : भविष्यवाणी, प्रारंभिक चेतावनी और सुरक्षा उपाय (Prediction, Early Warnings, Safety Measures)", "chapter_name": "भविष्यवाणी, प्रारंभिक चेतावनी और सुरक्षा उपाय (Prediction, Early Warnings, Safety Measures)", "csv_path": "subjects/AEC-3/3.3.csv"},
+        {"नाम": "3.4 : सूचना, शिक्षा, संचार और प्रशिक्षण की भूमिका", "chapter_name": "सूचना, शिक्षा, संचार और प्रशिक्षण की भूमिका", "csv_path": "subjects/AEC-3/3.4.csv"},
+        {"नाम": "3.5 : सरकार, अंतरराष्ट्रीय एजेंसियों एवं NGO की भूमिका", "chapter_name": "सरकार, अंतरराष्ट्रीय एजेंसियों एवं NGO की भूमिका", "csv_path": "subjects/AEC-3/3.5.csv"},
+        {"नाम": "3.6 : सूचना तकनीक की भूमिका (Role of IT in Disaster Preparedness)", "chapter_name": "सूचना तकनीक की भूमिका (Role of IT in Disaster Preparedness)", "csv_path": "subjects/AEC-3/3.6.csv"},
+        {"नाम": "3.7 : अभियंताओं की भूमिका (Role of Engineers in Disaster Management)", "chapter_name": "अभियंताओं की भूमिका (Role of Engineers in Disaster Management)", "csv_path": "subjects/AEC-3/3.7.csv"}
+      ]
+    }
+  ]
+}
