@@ -142,32 +142,34 @@
         </div>
     </div>
 
-    <script>
-        // Define the robust renderMath function globally
+            <script>
         window.renderMath = function() {
-            // Check if MathJax object exists and has started before rendering
-            if (typeof MathJax !== 'undefined' && MathJax.startup.started) {
-                // Use the correct MathJax method to process new content
-                MathJax.typesetPromise(); 
-            } else {
-                // Fallback: If not ready, wait and try again
-                setTimeout(window.renderMath, 100);
-            }
+          if (typeof MathJax !== 'undefined' && MathJax.typesetPromise) {
+            MathJax.typesetClear();
+            MathJax.typesetPromise();
+          } else {
+            setTimeout(window.renderMath, 100);
+          }
         };
         
-        // MathJax Global Configuration: MUST be defined before the main MathJax script loads
-        MathJax = {
-            tex: {
-                // Enable single dollar signs ($) for inline math rendering
-                inlineMath: [['$', '$'], ['\\(', '\\)']] 
-            },
-            startup: {
-                // Prevent automatic render on initial page load (we control rendering)
-                typeset: false 
+        window.MathJax = {
+          tex: {
+            inlineMath: [['$', '$'], ['\\(', '\\)']],
+            processEscapes: true,
+            processEnvironments: true
+          },
+          options: {
+            skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+          },
+          startup: {
+            typeset: false,
+            ready: () => {
+              MathJax.startup.defaultReady();
+              window.renderMath();
             }
+          }
         };
-    </script>
-    
+        </script>    
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     
     <script id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
@@ -177,3 +179,4 @@
     <script src="script.js"></script> 
 </body>
 </html>
+
