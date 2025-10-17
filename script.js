@@ -319,21 +319,24 @@ class MCQTestApp {
 
     displayQuestion() {
         const question = this.currentTest[this.currentQuestionIndex];
-
         this.questionText.innerHTML = question.question;
-        this.optionsContainer.innerHTML = '';
-
-        question.options.forEach((option) => {
-            const optionElement = document.createElement('div');
-            optionElement.className = 'option';
-            optionElement.innerHTML = option;
-
-            if (this.userAnswers[this.currentQuestionIndex] === option) {
+            this.optionsContainer.innerHTML = '';
+            
+            question.options.forEach((option) => {
+              const optionElement = document.createElement('div');
+              optionElement.className = 'option';
+              optionElement.innerHTML = option;
+              if (this.userAnswers[this.currentQuestionIndex] === option) {
                 optionElement.classList.add('selected');
+              }
+              optionElement.addEventListener('click', () => this.selectOption(option));
+              this.optionsContainer.appendChild(optionElement);
+            });
+            
+            // MathJax को render करने के लिए मजबूर करो
+            if (typeof window.renderMath === 'function') {
+              window.renderMath();
             }
-            optionElement.addEventListener('click', () => this.selectOption(option));
-            this.optionsContainer.appendChild(optionElement);
-        });
 
         this.updateNavigationButtons();
 
@@ -651,3 +654,4 @@ class MCQTestApp {
 document.addEventListener('DOMContentLoaded', () => {
     new MCQTestApp();
 });
+
