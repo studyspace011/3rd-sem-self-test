@@ -104,7 +104,9 @@
       "विषय_कोड": "AEC-3",
       "अध्याय": [
         {"नाम": "1.1 : आपदा का अर्थ और परिभाषा", "chapter_name": "आपदा का अर्थ और परिभाषा", "csv_path": "subjects/AEC-3/1.1.csv"},
-        {"नाम": "1.2 : आपदाओं के प्रकार", "chapter_name": "आपदाओं के प्रकार", "csv_path": "subjects/AEC-3/1.2.csv"},
+        {"नाम": "1.1 : आपदाओं के प्रकार (in short)", "chapter_name": "आपदाओं के प्रकार", "csv_path": "subjects/AEC-3/1.2.csv"},
+        {"नाम": "1.2.1 : प्राकृतिक आपदाएं", "chapter_name": "प्राकृतिक आपदाएं", "csv_path": "subjects/AEC-3/1.2.1.csv"},
+        {"नाम": "1.2.2 : मानवजनित आपदाएं", "chapter_name": "मानवजनित आपदाएं", "csv_path": "subjects/AEC-3/1.2.2.csv"},
         {"नाम": "1.3 : सभी आपदाओं के कारण, प्रभाव और वास्तविक उदाहरण", "chapter_name": "सभी आपदाओं के कारण, प्रभाव और वास्तविक उदाहरण", "csv_path": "subjects/AEC-3/1.3.csv"},
         {"नाम": "2.1 : जोखिम (Risk):", "chapter_name": "जोखिम (Risk):", "csv_path": "subjects/AEC-3/2.1.csv"},
         {"नाम": "2.2 : जोखिम न्यूनीकरण (Risk Reduction)", "chapter_name": "जोखिम न्यूनीकरण (Risk Reduction)", "csv_path": "subjects/AEC-3/2.2.csv"},
@@ -119,4 +121,5 @@
       ]
     }
   ]
+
 }
