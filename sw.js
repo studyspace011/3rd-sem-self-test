@@ -116,13 +116,16 @@ self.addEventListener('install', (event) => {
 });
 // Fetch: Serve from cache if available, otherwise fetch from network
 self.addEventListener('fetch', (event) => {
-    event.respondWith(
-        caches.match(event.request)
-            .then((response) => {
-                // Return response from cache or fetch from network
-                return response || fetch(event.request);
-            })
-    );
+  event.respondWith(
+    caches.match(event.request)
+      .then((response) => {
+        return response || fetch(event.request)
+          .catch(error => {
+            console.error('Fetch failed:', error);
+            // Optionally return a fallback response
+          });
+      })
+  );
 });
 
 // Activate: Clean up old caches
@@ -142,5 +145,6 @@ self.addEventListener('activate', (event) => {
     );
 
 });
+
 
 
